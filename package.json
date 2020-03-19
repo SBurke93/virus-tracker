@@ -1,0 +1,17 @@
+{
+  "name": "virus-count",
+  "version": "1.0.0",
+  "description": "An updating front-end app that allows viewers keep track of hourly changes in corrona-virus statistics on a global scale.",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1"
+  }
+}
