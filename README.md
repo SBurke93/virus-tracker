@@ -3,4 +3,4 @@ A small React application which utilizes hooks to pull data from an external API
 
 This was my first time diving into React hooks with very little knowledge beforehand.
 
-Inspired by Wes Bos. )
+(Inspired by Wes Bos)
